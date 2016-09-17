@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 80px;
+    margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+th {
+  font-size: 50px;
+
+}

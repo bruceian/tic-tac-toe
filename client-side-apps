@@ -1,0 +1,21 @@
+# Intro to Front-End Apps #
+
+Tic Tac Toe
+- play against another person or computer
+- if computer set its turn to random not taken spot on the board
+- set end conditions
+- turns ( cant go twice in a row)
+- board grid
+- can't replace x with o; cant remove a turn
+
+- think about which languages would be best for each step
+- think about your goals
+
+reasons for html
+- simple
+- draw board in html **
+- can make boxes and float and sort them
+- or you can use a table
+
+reasons for js
+- testing js is easier/better?
